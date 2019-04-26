@@ -27,7 +27,7 @@ If you want to try all of the platinum features, you can start a 30-day trial.
   - ansible-playbook ek6-sec.yml
 3. Set built-in users' password
   - /usr/share/elasticsearch/bin/elasticsearch-setup-passwords interactive
-  NOTE: You need to align the password with elastic's one in ek6-sec.yml.
+  - NOTE: You need to align the password with elastic's one in ek6-sec.yml.
 
 ## Shutdown the environment
 - cd elastic6-setup
